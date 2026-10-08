@@ -1,0 +1,3 @@
+plaso.tsv: what plaso (the log2timeline/plaso:20260720 Docker image) reads
+from tests/fixtures/plaso/mac_cups_ipp with its cups_ipp parser (psort -o
+json_line), written by gen.py (see its header).
